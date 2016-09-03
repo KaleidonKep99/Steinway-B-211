@@ -1,0 +1,25 @@
+*** Steinway B-211 Project ***
+- Sampled from a Steinway B-211 Grand!
+- HQ samples, WAV 16bit Float. 1411kbps. (There are exceptions)
+- Dynamic filtering, to emulate key pressures. (No velocity layers!!!)
+- Multiple presets for all the tastes!
+- Can be edited as pleased with a generic notepad program! (Even the one built-in on Windows)
+
+Rules:
+1 - You can mix this soundfont with other GM soundfonts, but not with other piano soundfonts. This applies to other soundfonts of mine too. (Ex. Mixing my Keppy's Steinway Piano with the Roland Dream Piano)
+2 - Give us proper credits if you're going to use it in musical projects or YouTube videos. Add these lines to your description: "This soundfont was made by Keppy Studios, you can find it here: http://keppystudios.com/stuff.html"
+3 - If you want to publish it on your website, you can embed the page through an IFRAME tag or by inserting a direct link to this page. Never use direct download links. NEVER.
+4 - You are allowed to add effects to the rendered audio (Ex. Rendering audio through SynthFont2 and then adding multiple effects through FL Studio), but you're not allowed to come to the point where the effects cover the original sound.
+5 - Don't implement these samples in your personal soundfonts.
+
+The rules are applied to the "add-ons" too. No exceptions.
+
+If you don't follow the rules, I'll give you one warning.
+If after my warning, you continue to NOT follow the rules, I'll take drastic action.
+
+This only applies to people who does that by ignoring or knowning about the rules.
+
+If you did know about the rules, and you mix it with other soundfonts, I'll take your video/project down without hesitation.
+============================================================================================================================
+I hope you guys like the project.
+~ Keppy
