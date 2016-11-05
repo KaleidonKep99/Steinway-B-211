@@ -1,5 +1,10 @@
 # Steinway B-211
 A free soundfont of a real Steinway B-211 from 1960.
+<br>
+Probably the only realistic soundfont I've ever made.
+
+# I'm searching for a "jazzy" soundfont, where can I find one?
+There's Keppy's Steinway Piano for that, click here: https://github.com/KaleidonKep99/Keppy-Steinway-Piano
 
 ## Main features
 - Sampled from a Steinway B-211.
