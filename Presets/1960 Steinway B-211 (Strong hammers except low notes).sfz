@@ -21,92 +21,92 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=2
 key=66
 ampeg_release=0.305
@@ -122,92 +122,92 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=2
 key=66
 ampeg_release=0.305
@@ -223,92 +223,92 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=2
 key=66
 ampeg_release=0.305
@@ -324,92 +324,92 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=2
 key=66
 ampeg_release=0.305
@@ -425,92 +425,92 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-15
 key=49
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-14
 key=50
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-13
 key=51
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-12
 key=52
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-11
 key=53
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-10
 key=54
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-9
 key=55
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-8
 key=56
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-7
 key=57
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-6
 key=58
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-5
 key=59
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-4
 key=60
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-3
 key=61
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-2
 key=62
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=-1
 key=63
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=0
 key=64
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=1
 key=65
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=2
 key=66
 ampeg_release=0.305
@@ -528,107 +528,107 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=23
 key=87
 ampeg_release=0.305
@@ -644,107 +644,107 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=23
 key=87
 ampeg_release=0.305
@@ -760,107 +760,107 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=23
 key=87
 ampeg_release=0.305
@@ -876,107 +876,107 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=23
 key=87
 ampeg_release=0.305
@@ -992,107 +992,107 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=3
 key=67
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=4
 key=68
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=5
 key=69
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=6
 key=70
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=7
 key=71
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=8
 key=72
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=9
 key=73
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=10
 key=74
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=11
 key=75
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=12
 key=76
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=13
 key=77
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=14
 key=78
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=15
 key=79
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=16
 key=80
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=17
 key=81
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=18
 key=82
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=19
 key=83
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=20
 key=84
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=21
 key=85
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=22
 key=86
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=23
 key=87
 ampeg_release=0.305
@@ -1110,32 +1110,32 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=29
 key=93
 ampeg_release=0.305
@@ -1151,32 +1151,32 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=29
 key=93
 ampeg_release=0.305
@@ -1192,32 +1192,32 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=29
 key=93
 ampeg_release=0.305
@@ -1233,32 +1233,32 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=29
 key=93
 ampeg_release=0.305
@@ -1274,32 +1274,32 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=24
 key=88
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=25
 key=89
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=26
 key=90
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=27
 key=91
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=28
 key=92
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=29
 key=93
 ampeg_release=0.305
@@ -1317,191 +1317,191 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=63
 key=127
 pitch_keycenter=108
@@ -1518,191 +1518,191 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=63
 key=127
 pitch_keycenter=108
@@ -1719,191 +1719,191 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=63
 key=127
 pitch_keycenter=108
@@ -1920,191 +1920,191 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=63
 key=127
 pitch_keycenter=108
@@ -2121,191 +2121,191 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 loop_mode=one_shot
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=30
 key=94
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=31
 key=95
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=32
 key=96
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=33
 key=97
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=34
 key=98
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=35
 key=99
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=36
 key=100
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=37
 key=101
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=38
 key=102
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=39
 key=103
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=40
 key=104
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=41
 key=105
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=42
 key=106
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=43
 key=107
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=44
 key=108
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=45
 key=109
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=46
 key=110
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=47
 key=111
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=48
 key=112
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=49
 key=113
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=50
 key=114
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=51
 key=115
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=52
 key=116
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=53
 key=117
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=54
 key=118
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=55
 key=119
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=56
 key=120
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=57
 key=121
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=58
 key=122
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=59
 key=123
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=60
 key=124
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=61
 key=125
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=62
 key=126
 pitch_keycenter=108
 ampeg_release=0.305
 
-<region> sample=..\hammer.wav
+<region> sample=hammer.wav
 pan=63
 key=127
 pitch_keycenter=108
