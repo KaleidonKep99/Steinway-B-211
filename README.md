@@ -1,7 +1,14 @@
 # Steinway B-211
-A free soundfont of a real Steinway B-211 from 1960.
-<br>
-Probably the only realistic soundfont I've ever made.
+<p align="center">
+  A free soundfont of a real Steinway B-211 from 1960.
+  <br>
+  Probably the only realistic soundfont I've ever made.
+  <br><br>
+  Preview of the soundfont available on SoundCloud:
+  <br>
+  <a href="https://soundcloud.com/kaleidonkep99/the-sims-new-beginnings-build-1"><img src="http://www.australiacounselling.com.au/wp-content/uploads/2014/04/button-soundcloud.jpg" /></a>
+</p>
+
 
 ## F.A.Q.
 **I just want a ready-to-use soundfont, without having to add fancypants effects to it. Is this project good for me?**
