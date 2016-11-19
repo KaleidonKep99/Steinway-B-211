@@ -21,9 +21,9 @@ Probably not here. There's Keppy's Steinway Piano for that, click here: https://
 <br><br>
 **This soundfont sounds terrible with Black MIDIs, like for real... Why don't you [...]**
 <br>
-How about you f**k off? This soundfont is not meant for Black MIDIs anyway.
+How about you f<span>**</span>k off? This soundfont is not meant for Black MIDIs anyway.
 <br>
-For that, there's my failed project **Keppy's Steinway Piano**, which you can download from the link up below.
+For that, there's my failed project _Keppy's Steinway Piano_, which you can download from the link up below.
 
 ## Main features
 - Sampled from a Steinway B-211.
