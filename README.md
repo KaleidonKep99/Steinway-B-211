@@ -6,7 +6,7 @@
   <br><br>
   Preview of the soundfont available on SoundCloud:
   <br>
-  <a href="https://soundcloud.com/kaleidonkep99/the-sims-new-beginnings-build-1"><img src="http://www.australiacounselling.com.au/wp-content/uploads/2014/04/button-soundcloud.jpg" /></a>
+  <a href="https://soundcloud.com/kaleidonkep99/sets/steinway-b-211-project"><img src="http://www.australiacounselling.com.au/wp-content/uploads/2014/04/button-soundcloud.jpg" /></a>
 </p>
 
 
