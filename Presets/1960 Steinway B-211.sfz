@@ -9,13 +9,10 @@
 <control>
 hint_ram_based=1
 default_path=..\Samples\
-set_cc7=127
-set_cc10=63
 set_cc14=127
-set_cc15=63
-set_cc20=75
-label_cc7=Main volume
-label_cc10=Pan
+set_cc15=85
+set_cc20=100
+set_cc64=0
 label_cc14=Piano volume
 label_cc15=Hammers volume
 label_cc20=Pedal volume
@@ -27,6 +24,9 @@ xfin_locc15=0
 xfin_hicc15=127
 sustain_sw=off
 loop_mode=one_shot
+pitch_keytrack=0
+pitch_random=182
+transpose=0
 lokey=c#-1
 hikey=c#-1
 
@@ -34,7 +34,7 @@ hikey=c#-1
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-29.000
+volume=-27.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -310,7 +310,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-28.750
+volume=-26.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -586,7 +586,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-28.250
+volume=-26.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -862,7 +862,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-27.750
+volume=-25.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1138,7 +1138,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-27.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1416,7 +1416,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-28.000
+volume=-26.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1516,7 +1516,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-27.750
+volume=-25.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1616,7 +1616,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-27.250
+volume=-25.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1716,7 +1716,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-26.750
+volume=-24.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1816,7 +1816,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-26.000
+volume=-24.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -1918,7 +1918,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-27.000
+volume=-25.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2033,7 +2033,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-26.750
+volume=-24.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2148,7 +2148,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-26.250
+volume=-24.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2263,7 +2263,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-25.750
+volume=-23.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2378,7 +2378,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-25.000
+volume=-23.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2495,7 +2495,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-26.000
+volume=-24.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2535,7 +2535,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-25.750
+volume=-23.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2575,7 +2575,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-25.250
+volume=-23.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2615,7 +2615,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-24.750
+volume=-22.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2655,7 +2655,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-24.000
+volume=-22.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2697,7 +2697,7 @@ ampeg_release=0.305
 // Hammers 1
 <group>
 lovel=0 hivel=35
-volume=-25.000
+volume=-23.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -2897,7 +2897,7 @@ ampeg_release=0.305
 // Hammers 2
 <group>
 lovel=36 hivel=60
-volume=-24.750
+volume=-22.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -3097,7 +3097,7 @@ ampeg_release=0.305
 // Hammers 3
 <group>
 lovel=61 hivel=86
-volume=-24.250
+volume=-22.250
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -3297,7 +3297,7 @@ ampeg_release=0.305
 // Hammers 4
 <group>
 lovel=87 hivel=101
-volume=-23.750
+volume=-21.750
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -3497,7 +3497,7 @@ ampeg_release=0.305
 // Hammers 5
 <group>
 lovel=102 hivel=127
-volume=-23.000
+volume=-21.000
 ampeg_sustain=100
 fil_veltrack=9600
 cutoff=5
@@ -3702,7 +3702,6 @@ ampeg_release=0.305
 <master>
 xfin_locc14=0 
 xfin_hicc14=127
-sustain_sw=off
 lokey=c#-1
 hikey=c#-1
 
@@ -13408,6 +13407,7 @@ ampeg_release=3.500
 xfin_locc20=0 
 xfin_hicc20=127
 sustain_sw=off
+pitch_random=127
 loop_mode=one_shot
 lokey=c#-1
 hikey=c#-1
@@ -13420,6 +13420,14 @@ volume=-27.000
 cutoff=50
 on_locc64=0
 on_hicc64=0
+trigger=release
+
+<region>
+sample=pedal.wav
+volume=-35.000
+cutoff=50
+on_locc64=127
+on_hicc64=127
 trigger=release
 
 // DEND - END OF THE PEDAL SECTION
