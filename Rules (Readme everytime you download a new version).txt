@@ -5,6 +5,11 @@
 - Multiple presets for all the tastes!
 - Can be edited as pleased with a generic notepad program! (Even the one built-in on Windows)
 
+Note:
+Please avoid using this project for Black MIDIs.
+First of all, it's not even meant for them... I'm serious, it just sounds bad with them.
+Plus, they'll make the project look bad in front of the others, since Black MIDIs sound bad with it, thus making others think that B-211 sounds bad for everything.
+
 Rules:
 1. You can mix this sample library with other GM soundfonts/sample libraries, but not with other piano soundfonts. This applies to other soundfonts of mine too. (Ex. Mixing this sample library with the Roland Dream Piano)
 2. Give us proper credits if you're going to use it in musical projects or YouTube videos. Add these lines to your description: "This sample library was made by KaleidonKep99, you can find it here: https://github.com/KaleidonKep99/Steinway-B-211".
