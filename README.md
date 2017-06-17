@@ -9,21 +9,25 @@
   <a href="https://soundcloud.com/kaleidonkep99/sets/steinway-b-211-project"><img src="http://www.australiacounselling.com.au/wp-content/uploads/2014/04/button-soundcloud.jpg" /></a>
 </p>
 
+## Description
+Do you want to just play standard MIDI files with piano samples, without having to pay for them?
+<br>
+Well, this is the right project for you!
+<br><br>
+Welcome to the Keppy's Steinway Piano project page on GitHub, where you can download a piano soundfont for free!
+<br><br>
+Please consider adding these lines to your video's description, to support the SoundFont:
+<br>
+"This soundfont was made by KaleidonKep99, you can find it here: https://github.com/KaleidonKep99/Steinway-B-211"
 
 ## F.A.Q.
 **I just want a ready-to-use sample library, without having to add fancypants effects to it. Is this project good for me?**
 <br>
 No. I recommend to search somewhere else, this is not the project for you.
 <br><br>
-**I'm searching for a "jazzy" sample library, where can I find one?**
-<br>
-Probably not here. There's Keppy's Steinway Piano for that, click here: https://github.com/KaleidonKep99/Keppy-Steinway-Piano
-<br><br>
 **This sample library sounds terrible with Black MIDIs, like for real... Why don't you [...]**
 <br>
 This sample library is not meant for Black MIDIs anyway. How many times do I have to say that...
-<br>
-For that, there's my failed project _Keppy's Steinway Piano_, which you can download from the link up below.
 
 ## Main features
 - Sampled from a Steinway B-211.
@@ -32,12 +36,9 @@ For that, there's my failed project _Keppy's Steinway Piano_, which you can down
 - Multiple presets for all the tastes!
 - Can be edited as pleased with a generic notepad program! (Even the one built-in on Windows)
 
-## Rules for the use of this project
-1. You can mix this sample library with other GM soundfonts/sample libraries, but not with other piano soundfonts. This applies to other soundfonts of mine too. (Ex. Mixing this sample library with the Roland Dream Piano)
-2. Give us proper credits if you're going to use it in musical projects or YouTube videos. Add these lines to your description: "This sample library was made by KaleidonKep99, you can find it here: https://github.com/KaleidonKep99/Steinway-B-211".
-3. If you want to publish it on your website, you can embed the page through an IFRAME tag or by inserting a direct link to this page. Never use direct download links. NEVER.
-4. You are allowed to add effects to the rendered audio (Ex. Rendering audio through SynthFont2 and then adding multiple effects, such as reverb and chorus, through FL Studio), but you're not allowed to come to the point where the effects cover the original sound (E.g. Making it sound like an Hapsicord or something like that).
-5. Don't implement these samples in your personal soundfonts.
+## Requests from the project's creator
+1. If you want to publish it on your website, you can embed the page through an IFRAME tag or by inserting a direct link to this page. Please don't use direct download links.
+3. Please don't implement these samples in your personal soundfonts.
 
 ## Read this part or do a barrel roll
 Please don't complain about the samples being flat or stuff like that.
