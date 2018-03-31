@@ -1,0 +1,13433 @@
+// Steinway B-211 by KaleidonKep99
+//
+// This file has been accurately calibrated, for the best sound experience.
+// WARNING: Always make a backup of this file, before editing any of these values.
+// 
+// I hope you all like it!
+// ~ Keppy
+
+<control>
+hint_ram_based=1
+default_path=..\Samples\
+set_cc14=127
+set_cc15=85
+set_cc20=100
+set_cc64=0
+label_cc14=Piano volume
+label_cc15=Hammers volume
+label_cc20=Pedal volume
+label_cc64=Damper pedal
+
+// HSTR - BEGINNING OF THE HAMMERS SECTION
+<master>
+xfin_locc15=0 
+xfin_hicc15=127
+sustain_sw=off
+loop_mode=one_shot
+pitch_keytrack=0
+pitch_random=182
+transpose=0
+lokey=c#-1
+hikey=c#-1
+
+// Low keys
+// Hammers 1
+<group>
+lovel=0 hivel=35
+volume=-27.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-43
+key=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-42
+key=22
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-41
+key=23
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-40
+key=24
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-39
+key=25
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-38
+key=26
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-37
+key=27
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-36
+key=28
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-35
+key=29
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-34
+key=30
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-33
+key=31
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-32
+key=32 
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-31
+key=33
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-30
+key=34
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-29
+key=35
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-28
+key=36
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-27
+key=37
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-26
+key=38
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-25
+key=39
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-24
+key=40
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-23
+key=41
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-22
+key=42
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-21
+key=43
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-20
+key=44
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-19
+key=45
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-18
+key=46
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-17
+key=47
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-16
+key=48
+ampeg_release=0.305
+
+// Hammers 2
+<group>
+lovel=36 hivel=60
+volume=-26.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-43
+key=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-42
+key=22
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-41
+key=23
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-40
+key=24
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-39
+key=25
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-38
+key=26
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-37
+key=27
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-36
+key=28
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-35
+key=29
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-34
+key=30
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-33
+key=31
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-32
+key=32 
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-31
+key=33
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-30
+key=34
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-29
+key=35
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-28
+key=36
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-27
+key=37
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-26
+key=38
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-25
+key=39
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-24
+key=40
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-23
+key=41
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-22
+key=42
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-21
+key=43
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-20
+key=44
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-19
+key=45
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-18
+key=46
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-17
+key=47
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-16
+key=48
+ampeg_release=0.305
+
+// Hammers 3
+<group>
+lovel=61 hivel=86
+volume=-26.250
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-43
+key=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-42
+key=22
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-41
+key=23
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-40
+key=24
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-39
+key=25
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-38
+key=26
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-37
+key=27
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-36
+key=28
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-35
+key=29
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-34
+key=30
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-33
+key=31
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-32
+key=32 
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-31
+key=33
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-30
+key=34
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-29
+key=35
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-28
+key=36
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-27
+key=37
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-26
+key=38
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-25
+key=39
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-24
+key=40
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-23
+key=41
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-22
+key=42
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-21
+key=43
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-20
+key=44
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-19
+key=45
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-18
+key=46
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-17
+key=47
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-16
+key=48
+ampeg_release=0.305
+
+// Hammers 4
+<group>
+lovel=87 hivel=101
+volume=-25.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-43
+key=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-42
+key=22
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-41
+key=23
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-40
+key=24
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-39
+key=25
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-38
+key=26
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-37
+key=27
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-36
+key=28
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-35
+key=29
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-34
+key=30
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-33
+key=31
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-32
+key=32 
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-31
+key=33
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-30
+key=34
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-29
+key=35
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-28
+key=36
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-27
+key=37
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-26
+key=38
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-25
+key=39
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-24
+key=40
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-23
+key=41
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-22
+key=42
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-21
+key=43
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-20
+key=44
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-19
+key=45
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-18
+key=46
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-17
+key=47
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-16
+key=48
+ampeg_release=0.305
+
+// Hammers 5
+<group>
+lovel=102 hivel=127
+volume=-25.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-43
+key=21
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-42
+key=22
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-41
+key=23
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-40
+key=24
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-39
+key=25
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-38
+key=26
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-37
+key=27
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-36
+key=28
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-35
+key=29
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-34
+key=30
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-33
+key=31
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-32
+key=32 
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-31
+key=33
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-30
+key=34
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-29
+key=35
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-28
+key=36
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-27
+key=37
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-26
+key=38
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-25
+key=39
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-24
+key=40
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-23
+key=41
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-22
+key=42
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-21
+key=43
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-20
+key=44
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-19
+key=45
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-18
+key=46
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-17
+key=47
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-16
+key=48
+ampeg_release=0.305
+// Low keys
+
+// Mid keys
+// Hammers 1
+<group>
+lovel=0 hivel=35
+volume=-26.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-15
+key=49
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-14
+key=50
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-13
+key=51
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-12
+key=52
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-11
+key=53
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-10
+key=54
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-9
+key=55
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-8
+key=56
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-7
+key=57
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-6
+key=58
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-5
+key=59
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-4
+key=60
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-3
+key=61
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-2
+key=62
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-1
+key=63
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=0
+key=64
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=1
+key=65
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=2
+key=66
+ampeg_release=0.305
+
+// Hammers 2
+<group>
+lovel=36 hivel=60
+volume=-25.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-15
+key=49
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-14
+key=50
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-13
+key=51
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-12
+key=52
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-11
+key=53
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-10
+key=54
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-9
+key=55
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-8
+key=56
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-7
+key=57
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-6
+key=58
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-5
+key=59
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-4
+key=60
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-3
+key=61
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-2
+key=62
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-1
+key=63
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=0
+key=64
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=1
+key=65
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=2
+key=66
+ampeg_release=0.305
+
+// Hammers 3
+<group>
+lovel=61 hivel=86
+volume=-25.250
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-15
+key=49
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-14
+key=50
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-13
+key=51
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-12
+key=52
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-11
+key=53
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-10
+key=54
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-9
+key=55
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-8
+key=56
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-7
+key=57
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-6
+key=58
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-5
+key=59
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-4
+key=60
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-3
+key=61
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-2
+key=62
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-1
+key=63
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=0
+key=64
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=1
+key=65
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=2
+key=66
+ampeg_release=0.305
+
+// Hammers 4
+<group>
+lovel=87 hivel=101
+volume=-24.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-15
+key=49
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-14
+key=50
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-13
+key=51
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-12
+key=52
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-11
+key=53
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-10
+key=54
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-9
+key=55
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-8
+key=56
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-7
+key=57
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-6
+key=58
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-5
+key=59
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-4
+key=60
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-3
+key=61
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-2
+key=62
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-1
+key=63
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=0
+key=64
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=1
+key=65
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=2
+key=66
+ampeg_release=0.305
+
+// Hammers 5
+<group>
+lovel=102 hivel=127
+volume=-24.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=-15
+key=49
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-14
+key=50
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-13
+key=51
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-12
+key=52
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-11
+key=53
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-10
+key=54
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-9
+key=55
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-8
+key=56
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-7
+key=57
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-6
+key=58
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-5
+key=59
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-4
+key=60
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-3
+key=61
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-2
+key=62
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=-1
+key=63
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=0
+key=64
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=1
+key=65
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=2
+key=66
+ampeg_release=0.305
+// Mid keys
+
+// Mid/High keys
+// Hammers 1
+<group>
+lovel=0 hivel=35
+volume=-25.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=3
+key=67
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=4
+key=68
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=5
+key=69
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=6
+key=70
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=7
+key=71
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=8
+key=72
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=9
+key=73
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=10
+key=74
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=11
+key=75
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=12
+key=76
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=13
+key=77
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=14
+key=78
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=15
+key=79
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=16
+key=80
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=17
+key=81
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=18
+key=82
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=19
+key=83
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=20
+key=84
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=21
+key=85
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=22
+key=86
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=23
+key=87
+ampeg_release=0.305
+
+// Hammers 2
+<group>
+lovel=36 hivel=60
+volume=-24.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=3
+key=67
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=4
+key=68
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=5
+key=69
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=6
+key=70
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=7
+key=71
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=8
+key=72
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=9
+key=73
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=10
+key=74
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=11
+key=75
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=12
+key=76
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=13
+key=77
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=14
+key=78
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=15
+key=79
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=16
+key=80
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=17
+key=81
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=18
+key=82
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=19
+key=83
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=20
+key=84
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=21
+key=85
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=22
+key=86
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=23
+key=87
+ampeg_release=0.305
+
+// Hammers 3
+<group>
+lovel=61 hivel=86
+volume=-24.250
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=3
+key=67
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=4
+key=68
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=5
+key=69
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=6
+key=70
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=7
+key=71
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=8
+key=72
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=9
+key=73
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=10
+key=74
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=11
+key=75
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=12
+key=76
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=13
+key=77
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=14
+key=78
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=15
+key=79
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=16
+key=80
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=17
+key=81
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=18
+key=82
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=19
+key=83
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=20
+key=84
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=21
+key=85
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=22
+key=86
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=23
+key=87
+ampeg_release=0.305
+
+// Hammers 4
+<group>
+lovel=87 hivel=101
+volume=-23.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=3
+key=67
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=4
+key=68
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=5
+key=69
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=6
+key=70
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=7
+key=71
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=8
+key=72
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=9
+key=73
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=10
+key=74
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=11
+key=75
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=12
+key=76
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=13
+key=77
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=14
+key=78
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=15
+key=79
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=16
+key=80
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=17
+key=81
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=18
+key=82
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=19
+key=83
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=20
+key=84
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=21
+key=85
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=22
+key=86
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=23
+key=87
+ampeg_release=0.305
+
+// Hammers 5
+<group>
+lovel=102 hivel=127
+volume=-23.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=3
+key=67
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=4
+key=68
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=5
+key=69
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=6
+key=70
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=7
+key=71
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=8
+key=72
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=9
+key=73
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=10
+key=74
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=11
+key=75
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=12
+key=76
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=13
+key=77
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=14
+key=78
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=15
+key=79
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=16
+key=80
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=17
+key=81
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=18
+key=82
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=19
+key=83
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=20
+key=84
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=21
+key=85
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=22
+key=86
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=23
+key=87
+ampeg_release=0.305
+// Mid/High keys
+
+// High keys 1
+// Hammers 1
+<group>
+lovel=0 hivel=35
+volume=-24.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=24
+key=88
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=25
+key=89
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=26
+key=90
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=27
+key=91
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=28
+key=92
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=29
+key=93
+ampeg_release=0.305
+
+// Hammers 2
+<group>
+lovel=36 hivel=60
+volume=-23.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=24
+key=88
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=25
+key=89
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=26
+key=90
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=27
+key=91
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=28
+key=92
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=29
+key=93
+ampeg_release=0.305
+
+// Hammers 3
+<group>
+lovel=61 hivel=86
+volume=-23.250
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=24
+key=88
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=25
+key=89
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=26
+key=90
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=27
+key=91
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=28
+key=92
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=29
+key=93
+ampeg_release=0.305
+
+// Hammers 4
+<group>
+lovel=87 hivel=101
+volume=-22.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=24
+key=88
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=25
+key=89
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=26
+key=90
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=27
+key=91
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=28
+key=92
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=29
+key=93
+ampeg_release=0.305
+
+// Hammers 5
+<group>
+lovel=102 hivel=127
+volume=-22.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=24
+key=88
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=25
+key=89
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=26
+key=90
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=27
+key=91
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=28
+key=92
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=29
+key=93
+ampeg_release=0.305
+// High keys 1
+
+// High keys 2
+// Hammers 1
+<group>
+lovel=0 hivel=35
+volume=-23.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=30
+key=94
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=31
+key=95
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=32
+key=96
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=33
+key=97
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=34
+key=98
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=35
+key=99
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=36
+key=100
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=37
+key=101
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=38
+key=102
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=39
+key=103
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=40
+key=104
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=41
+key=105
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=42
+key=106
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=43
+key=107
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=0.305
+
+// Hammers 2
+<group>
+lovel=36 hivel=60
+volume=-22.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=30
+key=94
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=31
+key=95
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=32
+key=96
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=33
+key=97
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=34
+key=98
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=35
+key=99
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=36
+key=100
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=37
+key=101
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=38
+key=102
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=39
+key=103
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=40
+key=104
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=41
+key=105
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=42
+key=106
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=43
+key=107
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=0.305
+
+// Hammers 3
+<group>
+lovel=61 hivel=86
+volume=-22.250
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=30
+key=94
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=31
+key=95
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=32
+key=96
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=33
+key=97
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=34
+key=98
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=35
+key=99
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=36
+key=100
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=37
+key=101
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=38
+key=102
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=39
+key=103
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=40
+key=104
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=41
+key=105
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=42
+key=106
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=43
+key=107
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=0.305
+
+// Hammers 4
+<group>
+lovel=87 hivel=101
+volume=-21.750
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=30
+key=94
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=31
+key=95
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=32
+key=96
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=33
+key=97
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=34
+key=98
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=35
+key=99
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=36
+key=100
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=37
+key=101
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=38
+key=102
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=39
+key=103
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=40
+key=104
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=41
+key=105
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=42
+key=106
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=43
+key=107
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=0.305
+
+// Hammers 5
+<group>
+lovel=102 hivel=127
+volume=-21.000
+ampeg_sustain=100
+fil_veltrack=9600
+cutoff=5
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+<region> sample=hammer.wav
+pan=30
+key=94
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=31
+key=95
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=32
+key=96
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=33
+key=97
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=34
+key=98
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=35
+key=99
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=36
+key=100
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=37
+key=101
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=38
+key=102
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=39
+key=103
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=40
+key=104
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=41
+key=105
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=42
+key=106
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=43
+key=107
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=0.305
+
+<region> sample=hammer.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=0.305
+// High keys 2
+
+// HEND - END OF THE HAMMERS SECTION
+// -------------------------------------
+// PSTR - BEGINNING OF THE PIANO SECTION
+
+<master>
+xfin_locc14=0 
+xfin_hicc14=127
+lokey=c#-1
+hikey=c#-1
+
+// Zeroth (?) velocity layer
+<group>
+lovel=0 hivel=5
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=10
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// First velocity layer
+<group>
+lovel=6 hivel=12
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=18
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Second velocity layer
+<group>
+lovel=12 hivel=20
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=25
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Third velocity layer
+<group>
+lovel=21 hivel=37
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=32
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=0.900
+
+// Fourth velocity layer
+<group>
+lovel=38 hivel=49
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=37
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Fifth velocity layer
+<group>
+lovel=50 hivel=63
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=41
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Sixth velocity layer
+<group>
+lovel=64 hivel=80
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=47
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Seventh velocity layer
+<group>
+lovel=81 hivel=85
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=52
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Eighth velocity layer
+<group>
+lovel=86 hivel=98
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=56
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Ninth velocity layer
+<group>
+lovel=99 hivel=105
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=63
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Tenth velocity layer
+<group>
+lovel=106 hivel=113
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=69
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Eleventh velocity layer
+<group>
+lovel=114 hivel=119
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=75
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Twelveth velocity layer
+<group>
+lovel=120 hivel=123
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=82
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// Thirteenth velocity layer
+<group>
+lovel=124 hivel=127
+fil_type=lpf_2p
+fil_veltrack=9600
+cutoff=105
+ampeg_sustain=100
+pitchlfo_freq=2.550
+fillfo_freq=3.162
+
+// SSTR - Sample start
+<region> sample=KEPSREC021.wav
+pan=-64
+key=0
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-63
+key=1
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-62
+key=2
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-61
+key=3
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-60
+key=4
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-59
+key=5
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-58
+key=6
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-57
+key=7
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-56
+key=8
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-55
+key=9
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-54
+key=10
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-53
+key=11
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-52
+key=12
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-51
+key=13
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-50
+key=14
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-49
+key=15
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-48
+key=16
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-47
+key=17
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-46
+key=18
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-45
+key=19
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-44
+key=20
+pitch_keycenter=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC021.wav
+pan=-43
+key=21
+ampeg_release=0.900
+
+<region> sample=KEPSREC022.wav
+pan=-42
+key=22
+ampeg_release=0.900
+
+<region> sample=KEPSREC023.wav
+pan=-41
+key=23
+ampeg_release=0.900
+
+<region> sample=KEPSREC024.wav
+pan=-40
+key=24
+ampeg_release=0.900
+
+<region> sample=KEPSREC025.wav
+pan=-39
+key=25
+ampeg_release=0.900
+
+<region> sample=KEPSREC026.wav
+pan=-38
+key=26
+ampeg_release=0.900
+
+<region> sample=KEPSREC027.wav
+pan=-37
+key=27
+ampeg_release=0.900
+
+<region> sample=KEPSREC028.wav
+pan=-36
+key=28
+ampeg_release=0.900
+
+<region> sample=KEPSREC029.wav
+pan=-35
+key=29
+ampeg_release=0.900
+
+<region> sample=KEPSREC030.wav
+pan=-34
+key=30
+ampeg_release=0.900
+
+<region> sample=KEPSREC031.wav
+pan=-33
+key=31
+ampeg_release=0.900
+
+<region> sample=KEPSREC032.wav
+pan=-32
+key=32 
+ampeg_release=0.900
+
+<region> sample=KEPSREC033.wav
+pan=-31
+key=33
+ampeg_release=0.900
+
+<region> sample=KEPSREC034.wav
+pan=-30
+key=34
+ampeg_release=0.900
+
+<region> sample=KEPSREC035.wav
+pan=-29
+key=35
+ampeg_release=0.900
+
+<region> sample=KEPSREC036.wav
+pan=-28
+key=36
+ampeg_release=0.900
+
+<region> sample=KEPSREC037.wav
+pan=-27
+key=37
+ampeg_release=0.900
+
+<region> sample=KEPSREC038.wav
+pan=-26
+key=38
+ampeg_release=0.900
+
+<region> sample=KEPSREC039.wav
+pan=-25
+key=39
+ampeg_release=0.900
+
+<region> sample=KEPSREC040.wav
+pan=-24
+key=40
+ampeg_release=0.900
+
+<region> sample=KEPSREC041.wav
+pan=-23
+key=41
+ampeg_release=0.900
+
+<region> sample=KEPSREC042.wav
+pan=-22
+key=42
+ampeg_release=0.900
+
+<region> sample=KEPSREC043.wav
+pan=-21
+key=43
+ampeg_release=0.900
+
+<region> sample=KEPSREC044.wav
+pan=-20
+key=44
+ampeg_release=0.900
+
+<region> sample=KEPSREC045.wav
+pan=-19
+key=45
+ampeg_release=0.900
+
+<region> sample=KEPSREC046.wav
+pan=-18
+key=46
+ampeg_release=0.900
+
+<region> sample=KEPSREC047.wav
+pan=-17
+key=47
+ampeg_release=0.900
+
+<region> sample=KEPSREC048.wav
+pan=-16
+key=48
+ampeg_release=0.900
+
+<region> sample=KEPSREC049.wav
+pan=-15
+key=49
+ampeg_release=0.900
+
+<region> sample=KEPSREC050.wav
+pan=-14
+key=50
+ampeg_release=0.900
+
+<region> sample=KEPSREC051.wav
+pan=-13
+key=51
+ampeg_release=0.900
+
+<region> sample=KEPSREC052.wav
+pan=-12
+key=52
+ampeg_release=0.900
+
+<region> sample=KEPSREC053.wav
+pan=-11
+key=53
+ampeg_release=0.900
+
+<region> sample=KEPSREC054.wav
+pan=-10
+key=54
+ampeg_release=0.900
+
+<region> sample=KEPSREC055.wav
+pan=-9
+key=55
+ampeg_release=0.900
+
+<region> sample=KEPSREC056.wav
+pan=-8
+key=56
+ampeg_release=0.900
+
+<region> sample=KEPSREC057.wav
+pan=-7
+key=57
+ampeg_release=0.900
+
+<region> sample=KEPSREC058.wav
+pan=-6
+key=58
+ampeg_release=0.900
+
+<region> sample=KEPSREC059.wav
+pan=-5
+key=59
+ampeg_release=0.900
+
+<region> sample=KEPSREC060.wav
+pan=-4
+key=60
+ampeg_release=0.900
+
+<region> sample=KEPSREC061.wav
+pan=-3
+key=61
+ampeg_release=0.900
+
+<region> sample=KEPSREC062.wav
+pan=-2
+key=62
+ampeg_release=0.900
+
+<region> sample=KEPSREC063.wav
+pan=-1
+key=63
+ampeg_release=0.900
+
+<region> sample=KEPSREC064.wav
+pan=0
+key=64
+ampeg_release=0.900
+
+<region> sample=KEPSREC065.wav
+pan=1
+key=65
+ampeg_release=0.900
+
+<region> sample=KEPSREC066.wav
+pan=2
+key=66
+ampeg_release=0.900
+
+<region> sample=KEPSREC067.wav
+pan=3
+key=67
+ampeg_release=0.900
+
+<region> sample=KEPSREC068.wav
+pan=4
+key=68
+ampeg_release=0.900
+
+<region> sample=KEPSREC069.wav
+pan=5
+key=69
+ampeg_release=0.900
+
+<region> sample=KEPSREC070.wav
+pan=6
+key=70
+ampeg_release=0.900
+
+<region> sample=KEPSREC071.wav
+pan=7
+key=71
+ampeg_release=0.900
+
+<region> sample=KEPSREC072.wav
+pan=8
+key=72
+ampeg_release=1.100
+
+<region> sample=KEPSREC073.wav
+pan=9
+key=73
+ampeg_release=1.300
+
+<region> sample=KEPSREC074.wav
+pan=10
+key=74
+ampeg_release=1.500
+
+<region> sample=KEPSREC075.wav
+pan=11
+key=75
+ampeg_release=1.750
+
+<region> sample=KEPSREC076.wav
+pan=12
+key=76
+ampeg_release=1.750
+
+<region> sample=KEPSREC077.wav
+pan=13
+key=77
+ampeg_release=2.120
+
+<region> sample=KEPSREC078.wav
+pan=14
+key=78
+ampeg_release=2.120
+
+<region> sample=KEPSREC079.wav
+pan=15
+key=79
+ampeg_release=2.120
+
+<region> sample=KEPSREC080.wav
+pan=16
+key=80
+ampeg_release=2.120
+
+<region> sample=KEPSREC081.wav
+pan=17
+key=81
+ampeg_release=2.350
+
+<region> sample=KEPSREC082.wav
+pan=18
+key=82
+ampeg_release=2.350
+
+<region> sample=KEPSREC083.wav
+pan=19
+key=83
+ampeg_release=2.350
+
+<region> sample=KEPSREC084.wav
+pan=20
+key=84
+ampeg_release=2.850
+
+<region> sample=KEPSREC085.wav
+pan=21
+key=85
+ampeg_release=2.850
+
+<region> sample=KEPSREC086.wav
+pan=22
+key=86
+ampeg_release=3.000
+
+<region> sample=KEPSREC087.wav
+pan=23
+key=87
+ampeg_release=3.000
+
+<region> sample=KEPSREC088.wav
+pan=24
+key=88
+ampeg_release=3.000
+
+<region> sample=KEPSREC089.wav
+pan=25
+key=89
+ampeg_release=3.000
+
+<region> sample=KEPSREC090.wav
+pan=26
+key=90
+ampeg_release=3.000
+
+<region> sample=KEPSREC091.wav
+pan=27
+key=91
+ampeg_release=3.000
+
+<region> sample=KEPSREC092.wav
+pan=28
+key=92
+ampeg_release=3.000
+
+<region> sample=KEPSREC093.wav
+pan=29
+key=93
+ampeg_release=3.210
+
+<region> sample=KEPSREC094.wav
+pan=30
+key=94
+ampeg_release=3.210
+
+<region> sample=KEPSREC095.wav
+pan=31
+key=95
+ampeg_release=3.210
+
+<region> sample=KEPSREC096.wav
+pan=32
+key=96
+ampeg_release=3.210
+
+<region> sample=KEPSREC097.wav
+pan=33
+key=97
+ampeg_release=3.210
+
+<region> sample=KEPSREC098.wav
+pan=34
+key=98
+ampeg_release=3.210
+
+<region> sample=KEPSREC099.wav
+pan=35
+key=99
+ampeg_release=3.210
+
+<region> sample=KEPSREC100.wav
+pan=36
+key=100
+ampeg_release=3.500
+
+<region> sample=KEPSREC101.wav
+pan=37
+key=101
+ampeg_release=3.500
+
+<region> sample=KEPSREC102.wav
+pan=38
+key=102
+ampeg_release=3.500
+
+<region> sample=KEPSREC103.wav
+pan=39
+key=103
+ampeg_release=3.500
+
+<region> sample=KEPSREC104.wav
+pan=40
+key=104
+ampeg_release=3.500
+
+<region> sample=KEPSREC105.wav
+pan=41
+key=105
+ampeg_release=3.500
+
+<region> sample=KEPSREC106.wav
+pan=42
+key=106
+ampeg_release=3.500
+
+<region> sample=KEPSREC107.wav
+pan=43
+key=107
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=44
+key=108
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=45
+key=109
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=46
+key=110
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=47
+key=111
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=48
+key=112
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=49
+key=113
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=50
+key=114
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=51
+key=115
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=52
+key=116
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=53
+key=117
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=54
+key=118
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=55
+key=119
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=56
+key=120
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=57
+key=121
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=58
+key=122
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=59
+key=123
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=60
+key=124
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=61
+key=125
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=62
+key=126
+pitch_keycenter=108
+ampeg_release=3.500
+
+<region> sample=KEPSREC108.wav
+pan=63
+key=127
+pitch_keycenter=108
+ampeg_release=3.500
+
+// PEND - END OF THE PIANO SECTION
+// ---------------------------------
+// DSTR - START OF THE PEDAL SECTION
+
+<master>
+xfin_locc20=0 
+xfin_hicc20=127
+sustain_sw=off
+pitch_random=127
+loop_mode=one_shot
+lokey=c#-1
+hikey=c#-1
+
+<group>
+
+<region>
+sample=pedal.wav
+volume=-27.000
+cutoff=50
+on_locc64=0
+on_hicc64=0
+trigger=release
+
+<region>
+sample=pedal.wav
+volume=-35.000
+cutoff=50
+on_locc64=127
+on_hicc64=127
+trigger=release
+
+// DEND - END OF THE PEDAL SECTION
