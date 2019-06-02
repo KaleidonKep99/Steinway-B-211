@@ -1,0 +1,3113 @@
+// Steinway B-211 by KaleidonKep99
+//
+// This file has been accurately calibrated, for the best sound experience.
+// WARNING: Always make a backup of this file, before editing any of these values.
+// 
+// I hope you all like it!
+// ~ Keppy
+
+<control>
+hint_ram_based=1
+default_path=..\Samples\
+set_cc14=127
+set_cc15=85
+set_cc20=100
+set_cc64=0
+label_cc14=Piano volume
+label_cc15=Hammers volume
+label_cc20=Pedal volume
+label_cc64=Damper pedal
+
+// HSTR - BEGINNING OF THE HAMMERS SECTION
+
+#include "Extensions/1960 Steinway B-211.hmr"
+
+// HEND - END OF THE HAMMERS SECTION
+// -------------------------------------
+// PSTR - BEGINNING OF THE PIANO SECTION
+
+<master>
+xfin_locc14=0 
+xfin_hicc14=127
+lokey=c#-1
+hikey=c#-1
+
+<group>
+lovel=0 hivel=0
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=1 hivel=1
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=2 hivel=2
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=3 hivel=3
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=12
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=4 hivel=4
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=5 hivel=5
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=25
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=6 hivel=6
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=32
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=7 hivel=7
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=38
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=8 hivel=8
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=45
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=9 hivel=9
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=50
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=10 hivel=10
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=55
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=11 hivel=11
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=60
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=12 hivel=12
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=64
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=13 hivel=13
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=68
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=14 hivel=14
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=75
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=15 hivel=15
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=80
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=16 hivel=16
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=85
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=17 hivel=17
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=93
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=18 hivel=18
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=19 hivel=19
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=110
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=20 hivel=20
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=120
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=21 hivel=21
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=133
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=22 hivel=22
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=152
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=23 hivel=23
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=162
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=24 hivel=24
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=175
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=25 hivel=25
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=185
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=26 hivel=26
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=200
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=27 hivel=27
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=215
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=28 hivel=28
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=225
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=29 hivel=29
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=235
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=30 hivel=30
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=245
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=31 hivel=31
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=260
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=32 hivel=32
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=280
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=33 hivel=33
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=300
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=34 hivel=34
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=318
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=35 hivel=35
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=330
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=36 hivel=36
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=346
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=37 hivel=37
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=390
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=38 hivel=38
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=450
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=39 hivel=39
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=500
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=40 hivel=40
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=580
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=41 hivel=41
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=660
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=42 hivel=42
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=720
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=43 hivel=43
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=780
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=44 hivel=44
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=850
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=45 hivel=45
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=940
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=46 hivel=46
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=47 hivel=47
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1070
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=48 hivel=48
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1150
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=49 hivel=49
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1240
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=50 hivel=50
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1360
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=51 hivel=51
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1400
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=52 hivel=52
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1430
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=53 hivel=53
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1470
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=54 hivel=54
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1600
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=55 hivel=55
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1680
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=56 hivel=56
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1780
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=57 hivel=57
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1880
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=58 hivel=58
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1990
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=59 hivel=59
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2070
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=60 hivel=60
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2180
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=61 hivel=61
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2400
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=62 hivel=62
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2750
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=63 hivel=63
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2950
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=64 hivel=64
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3090
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=65 hivel=65
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3180
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=66 hivel=66
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3300
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=67 hivel=67
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3500
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=68 hivel=68
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3700
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=69 hivel=69
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3900
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=70 hivel=70
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4150
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=71 hivel=71
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4480
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=72 hivel=72
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4700
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=73 hivel=73
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=74 hivel=74
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5600
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=75 hivel=75
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=6100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=76 hivel=76
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=6700
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=77 hivel=77
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7350
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=78 hivel=78
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7500
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=79 hivel=79
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7800
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=80 hivel=80
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=81 hivel=81
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8350
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=82 hivel=82
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8660
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=83 hivel=83
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=84 hivel=84
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9500
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=85 hivel=85
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9800
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=86 hivel=86
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=10110
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=87 hivel=87
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=10400
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=88 hivel=88
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=10780
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=89 hivel=89
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=11000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=90 hivel=90
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=11400
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=91 hivel=91
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=12100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=92 hivel=92
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=12500
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=93 hivel=93
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=94 hivel=94
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13400
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=95 hivel=95
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13800
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=96 hivel=96
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=14100
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=97 hivel=97
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=14380
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=98 hivel=98
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=14600
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=99 hivel=99
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=100 hivel=100
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15300
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=101 hivel=101
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15600
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=102 hivel=102
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=16000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=103 hivel=103
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=16450
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=104 hivel=104
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=16800
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=105 hivel=105
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=17400
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=106 hivel=106
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=107 hivel=107
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18300
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=108 hivel=108
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18600
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=109 hivel=109
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=19600
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=110 hivel=110
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=20000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=111 hivel=111
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=22000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=112 hivel=112
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=24000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=113 hivel=113
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=26000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=114 hivel=114
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=30000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=115 hivel=115
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=40000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=116 hivel=116
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=50000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=117 hivel=117
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=60000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=118 hivel=118
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=67000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=119 hivel=119
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=80000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=120 hivel=120
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=87000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=121 hivel=121
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=95000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=122 hivel=122
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=100000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=123 hivel=123
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=110000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=124 hivel=124
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=120000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=125 hivel=125
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=130000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=126 hivel=126
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=140000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+<group>
+lovel=127 hivel=127
+ampeg_release=1
+ampeg_sustain=1.77828
+ampeg_hold=0.600124
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+effect1=1
+ampeg_decay=89.8845
+volume=-1.5086
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=200000
+
+//SINC - BEGINNING OF INCLUDE SECTION
+
+#include "Extensions/1960 Steinway B-211 (Mono).key"
+
+//EINC - END OF INCLUDE SECTION
+
+// PEND - END OF THE PIANO SECTION
+// ---------------------------------
+// DSTR - START OF THE PEDAL SECTION
+
+#include "Extensions/1960 Steinway B-211.pdl"
+
+// DEND - END OF THE PEDAL SECTION
