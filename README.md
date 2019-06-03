@@ -9,49 +9,54 @@
   <a href="https://soundcloud.com/kaleidonkep99/sets/steinway-b-211-project"><img src="http://www.australiacounselling.com.au/wp-content/uploads/2014/04/button-soundcloud.jpg" /></a>
 </p>
 
-## Description
-Do you want to just play standard MIDI files with piano samples, without having to pay for them?
-<br>
-Well, this is the right project for you!
-<br><br>
-Welcome to the Keppy's Steinway Piano project page on GitHub, where you can download a piano soundfont for free!
-<br><br>
-Please consider adding these lines to your video's description, to support the SoundFont:
-<br>
-"This soundfont was made by KaleidonKep99, you can find it here: https://github.com/KaleidonKep99/Steinway-B-211"
+## Story behind this SoundFont
+I started developing this SoundFont in 2014 after I finished working on [Keppy's Steinway Piano](https://github.com/KaleidonKep99/Steinway-D-274), since I wasn't really happy about how the latter turned out.<br />
+I wanted a SoundFont that felt like a real piano, with real dynamics and the classic earpiercing high keys, and while searching for a candidate to record key by key, I found an old B-211 from 1960 in a local store. I immediately fell in love with it.<br />
+I asked the seller if I could rent the piano for a few hours inside the store's soundproofed room, and he said he was okay with it.<br />
+Using my trustworthy TASCAM DR-40, I recorded each sample by hand, from first to last key (88 keys in total), and the job took me about 5 to 6 hours. It's been so long since I did that, so I don't how much it took exactly.<br />
+The first iterations of the presets weren't that great, it became VST-like only in version V2.0 and latter.
 
 ## F.A.Q.
 **I just want a ready-to-use sample library, without having to add fancypants effects to it. Is this project good for me?**
 <br>
-No. I recommend to search somewhere else, this is not the project for you.
+This soundfont has been made to give professional users a 360° field of view on B-211's sound, which they can tweak as they desire. The user has the ability to control their timbre by adding their own effects.<br />
+If you want something with pre-applied effects, I suggest you check out [Steinway D-274](https://github.com/KaleidonKep99/Steinway-D-274)
 <br><br>
-**This sample library sounds terrible with Black MIDIs, like for real... Why don't you [...]**
+**The SoundFont sounds muffled when playing Black MIDIs, how can I fix this?**
 <br>
-This sample library is not meant for Black MIDIs anyway. How many times do I have to say that...
+If you're using Steinway B-211 V1.8 or older, then yes those aren't meant to play Black MIDIs. But V2.0 and newer have been tweaked carefully, and should be able to play them.
+<br><br>
+**I really like your SoundFont! How can I share it with others?**
+<br>
+It's really easy actually, here's a few examples of what you **CAN** do:
+- Create a link which redirects to the project's (This) page.
+- Embed the project's page as an IFRAME in your website.
 
-## Main features
-- Sampled from a Steinway B-211.
-- HQ samples, WAV 16bit, 128-point sinc, 1536kbps.
-- Dynamic filtering, to emulate key pressures.
-- Multiple presets for all the tastes!
-- Can be edited as pleased with a generic notepad program! (Even the one built-in on Windows)
+Here's a few examples of what you **CAN'T** do:
+- Share a direct download link in your page.
+- Host the project in your own website without my permissions.
+<br><br>
+**Can I create a modified SoundFont based on yours?**
+<br>
+Sure you can, but there are some caveats.
+- I am **ALLOWED** to take your project down at any given time. You **MUST** take it down once you receive the notice.
+- You **MUST** credit me at all time in your version of my SoundFont.
+- You **MUST NOT** remove my name from the original presets' comments, if you're going to use them.
+- You **MUST** give me full read/write access to your project.
+
+## Features
+- Sampled from a real Steinway B-211 from 1960.
+- High quality 16-bit WAV samples, with a bitrate of 1536kbps.
+- 128 velocity layers, each with dynamic filtering system, to make it feel as real as possible.
+- Can be easily edited with a text editor program, like Notepad++ or Visual Studio Code.
 
 ## Requests from the project's creator
-1. If you want to publish it on your website, you can embed the page through an IFRAME tag or by inserting a direct link to this page. Please don't use direct download links.
-3. Please don't implement these samples in your personal soundfonts.
+1. If you want to publish it on your website, you can embed the page through an '<iframe>' tag or by inserting a direct link to this page. Please don't use direct download links.
+2. Please don't implement these samples in your personal soundfonts.
 
-## Read this part or do a barrel roll
-Please don't complain about the samples being flat or stuff like that.
-<br>
-This soundfont has been made to give professional users a 360° field of view on B-211's sound, which they can tweak as they desire.
-<br>
-If you don't know how to do stuff like that, or you're just too lazy to do that, **please** refrain from using this project, and go somewhere else.
-
-## Why is it on GitHub?
-As I said before, Keppy Studios has been closed, but I didn't want to kill this project.
-<br>
-So I gave it another chance, and moved it to GitHub.
+## Why is it on GitHub and not your own website?
+This project is beefy, and my puny website isn't able to host it, so I moved it to GitHub.
 <br><br>
 Have fun.
 <br>
-~ Keppy
+~ Keppy (BreezyAF)
