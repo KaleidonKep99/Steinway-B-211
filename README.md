@@ -25,7 +25,8 @@ If you want something with pre-applied effects, I suggest you check out [Steinwa
 **The SoundFont sounds muffled when playing Black MIDIs, how can I fix this?**
 <br>
 If you're using Steinway B-211 V1.8 or older, then yes those aren't meant to play Black MIDIs. But V2.0 and newer have been tweaked carefully, and should be able to play them.
-<br><br>
+<br>
+
 **I really like your SoundFont! How can I share it with others?**
 <br>
 It's really easy actually, here's a few examples of what you **CAN** do:
@@ -35,7 +36,8 @@ It's really easy actually, here's a few examples of what you **CAN** do:
 Here's a few examples of what you **CAN'T** do:
 - Share a direct download link in your page.
 - Host the project in your own website without my permissions.
-<br><br>
+<br>
+
 **Can I create a modified SoundFont based on yours?**
 <br>
 Sure you can, but there are some caveats.
