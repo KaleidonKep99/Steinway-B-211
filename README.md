@@ -10,7 +10,7 @@
 </p>
 
 ## Story behind this SoundFont
-I started developing this SoundFont in 2014 after I finished working on [Keppy's Steinway Piano](https://github.com/KaleidonKep99/Steinway-D-274), since I wasn't really happy about how the latter turned out.<br />
+I started developing this SoundFont in 2014 after I finished working on another SoundFont based on a D-274, since I wasn't really happy about how the latter turned out.<br />
 I wanted a SoundFont that felt like a real piano, with real dynamics and the classic earpiercing high keys, and while searching for a candidate to record key by key, I found an old B-211 from 1960 in a local store. I immediately fell in love with it.<br />
 I asked the seller if I could rent the piano for a few hours inside the store's soundproofed room, and he said he was okay with it.<br />
 Using my trustworthy TASCAM DR-40, I recorded each sample by hand, from first to last key (88 keys in total), and the job took me about 5 to 6 hours. It's been so long since I did that, so I don't how much it took exactly.<br />
@@ -20,7 +20,6 @@ The first iterations of the presets weren't that great, it became VST-like only 
 **I just want a ready-to-use sample library, without having to add fancypants effects to it. Is this project good for me?**
 <br>
 This soundfont has been made to give professional users a 360° field of view on B-211's sound, which they can tweak as they desire. The user has the ability to control their timbre by adding their own effects.<br />
-If you want something with pre-applied effects, I suggest you check out [Steinway D-274](https://github.com/KaleidonKep99/Steinway-D-274)
 <br><br>
 **The SoundFont sounds muffled when playing Black MIDIs, how can I fix this?**
 <br>
