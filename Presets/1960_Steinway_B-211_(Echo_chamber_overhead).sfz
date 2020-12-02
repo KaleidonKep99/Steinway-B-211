@@ -20,7 +20,7 @@ label_cc64=Damper pedal
 
 // HSTR - BEGINNING OF THE HAMMERS SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.hmr"
+#include "Extensions/ECO/B-211.hmr"
 
 // HEND - END OF THE HAMMERS SECTION
 // -------------------------------------
@@ -52,7 +52,7 @@ cutoff=3
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -76,7 +76,7 @@ cutoff=5
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -100,7 +100,7 @@ cutoff=8
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -124,7 +124,7 @@ cutoff=12
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -148,7 +148,7 @@ cutoff=18
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -172,7 +172,7 @@ cutoff=25
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -196,7 +196,7 @@ cutoff=32
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -220,7 +220,7 @@ cutoff=38
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -244,7 +244,7 @@ cutoff=45
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -268,7 +268,7 @@ cutoff=50
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -292,7 +292,7 @@ cutoff=55
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -316,7 +316,7 @@ cutoff=60
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -340,7 +340,7 @@ cutoff=64
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -364,7 +364,7 @@ cutoff=68
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -388,7 +388,7 @@ cutoff=75
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -412,7 +412,7 @@ cutoff=80
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -436,7 +436,7 @@ cutoff=85
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -460,7 +460,7 @@ cutoff=93
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -484,7 +484,7 @@ cutoff=100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -508,7 +508,7 @@ cutoff=110
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -532,7 +532,7 @@ cutoff=120
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -556,7 +556,7 @@ cutoff=133
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -580,7 +580,7 @@ cutoff=152
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -604,7 +604,7 @@ cutoff=162
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -628,7 +628,7 @@ cutoff=175
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -652,7 +652,7 @@ cutoff=185
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -676,7 +676,7 @@ cutoff=200
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -700,7 +700,7 @@ cutoff=215
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -724,7 +724,7 @@ cutoff=225
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -748,7 +748,7 @@ cutoff=235
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -772,7 +772,7 @@ cutoff=245
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -796,7 +796,7 @@ cutoff=260
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -820,7 +820,7 @@ cutoff=280
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -844,7 +844,7 @@ cutoff=300
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -868,7 +868,7 @@ cutoff=318
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -892,7 +892,7 @@ cutoff=330
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -916,7 +916,7 @@ cutoff=346
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -940,7 +940,7 @@ cutoff=390
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -964,7 +964,7 @@ cutoff=450
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -988,7 +988,7 @@ cutoff=500
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1012,7 +1012,7 @@ cutoff=580
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1036,7 +1036,7 @@ cutoff=660
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1060,7 +1060,7 @@ cutoff=720
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1084,7 +1084,7 @@ cutoff=780
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1108,7 +1108,7 @@ cutoff=850
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1132,7 +1132,7 @@ cutoff=940
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1156,7 +1156,7 @@ cutoff=1000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1180,7 +1180,7 @@ cutoff=1070
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1204,7 +1204,7 @@ cutoff=1150
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1228,7 +1228,7 @@ cutoff=1240
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1252,7 +1252,7 @@ cutoff=1360
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1276,7 +1276,7 @@ cutoff=1400
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1300,7 +1300,7 @@ cutoff=1430
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1324,7 +1324,7 @@ cutoff=1470
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1348,7 +1348,7 @@ cutoff=1600
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1372,7 +1372,7 @@ cutoff=1680
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1396,7 +1396,7 @@ cutoff=1780
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1420,7 +1420,7 @@ cutoff=1880
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1444,7 +1444,7 @@ cutoff=1990
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1468,7 +1468,7 @@ cutoff=2070
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1492,7 +1492,7 @@ cutoff=2180
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1516,7 +1516,7 @@ cutoff=2400
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1540,7 +1540,7 @@ cutoff=2750
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1564,7 +1564,7 @@ cutoff=2950
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1588,7 +1588,7 @@ cutoff=3090
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1612,7 +1612,7 @@ cutoff=3180
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1636,7 +1636,7 @@ cutoff=3300
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1660,7 +1660,7 @@ cutoff=3500
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1684,7 +1684,7 @@ cutoff=3700
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1708,7 +1708,7 @@ cutoff=3900
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1732,7 +1732,7 @@ cutoff=4150
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1756,7 +1756,7 @@ cutoff=4480
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1780,7 +1780,7 @@ cutoff=4700
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1804,7 +1804,7 @@ cutoff=5100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1828,7 +1828,7 @@ cutoff=5600
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1852,7 +1852,7 @@ cutoff=6100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1876,7 +1876,7 @@ cutoff=6700
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1900,7 +1900,7 @@ cutoff=7350
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1924,7 +1924,7 @@ cutoff=7500
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1948,7 +1948,7 @@ cutoff=7800
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1972,7 +1972,7 @@ cutoff=8100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -1996,7 +1996,7 @@ cutoff=8350
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2020,7 +2020,7 @@ cutoff=8660
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2044,7 +2044,7 @@ cutoff=9100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2068,7 +2068,7 @@ cutoff=9500
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2092,7 +2092,7 @@ cutoff=9800
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2116,7 +2116,7 @@ cutoff=10110
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2140,7 +2140,7 @@ cutoff=10400
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2164,7 +2164,7 @@ cutoff=10780
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2188,7 +2188,7 @@ cutoff=11000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2212,7 +2212,7 @@ cutoff=11400
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2236,7 +2236,7 @@ cutoff=12100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2260,7 +2260,7 @@ cutoff=12500
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2284,7 +2284,7 @@ cutoff=13000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2308,7 +2308,7 @@ cutoff=13400
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2332,7 +2332,7 @@ cutoff=13800
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2356,7 +2356,7 @@ cutoff=14100
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2380,7 +2380,7 @@ cutoff=14380
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2404,7 +2404,7 @@ cutoff=14600
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2428,7 +2428,7 @@ cutoff=15000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2452,7 +2452,7 @@ cutoff=15300
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2476,7 +2476,7 @@ cutoff=15600
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2500,7 +2500,7 @@ cutoff=16000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2524,7 +2524,7 @@ cutoff=16450
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2548,7 +2548,7 @@ cutoff=16800
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2572,7 +2572,7 @@ cutoff=17400
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2596,7 +2596,7 @@ cutoff=18000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2620,7 +2620,7 @@ cutoff=18300
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2644,7 +2644,7 @@ cutoff=18600
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2668,7 +2668,7 @@ cutoff=19600
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2692,7 +2692,7 @@ cutoff=20000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2716,7 +2716,7 @@ cutoff=22000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2740,7 +2740,7 @@ cutoff=24000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2764,7 +2764,7 @@ cutoff=26000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2788,7 +2788,7 @@ cutoff=30000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2812,7 +2812,7 @@ cutoff=40000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2836,7 +2836,7 @@ cutoff=50000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2860,7 +2860,7 @@ cutoff=60000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2884,7 +2884,7 @@ cutoff=67000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2908,7 +2908,7 @@ cutoff=80000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2932,7 +2932,7 @@ cutoff=87000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2956,7 +2956,7 @@ cutoff=95000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -2980,7 +2980,7 @@ cutoff=100000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -3004,7 +3004,7 @@ cutoff=110000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -3028,7 +3028,7 @@ cutoff=120000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -3052,7 +3052,7 @@ cutoff=130000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -3076,7 +3076,7 @@ cutoff=140000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -3100,7 +3100,7 @@ cutoff=200000
 
 //SINC - BEGINNING OF INCLUDE SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.key"
+#include "Extensions/ECO/B-211.key"
 
 //EINC - END OF INCLUDE SECTION
 
@@ -3108,6 +3108,6 @@ cutoff=200000
 // ---------------------------------
 // DSTR - START OF THE PEDAL SECTION
 
-#include "Extensions/ECO/1960 Steinway B-211.pdl"
+#include "Extensions/ECO/B-211.pdl"
 
 // DEND - END OF THE PEDAL SECTION
